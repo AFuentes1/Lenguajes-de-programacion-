@@ -11,15 +11,15 @@ type curso struct {
 	notas   map[string]float64 //Se crea el mapa para almacenar las notas
 }
 type administradorDeHorarios struct {
-	administradorMap map[string]curso
+	administradorMap map[string]*curso
 }
 
 func nuevoAdministradorDeHorarios() *administradorDeHorarios {
 	return &administradorDeHorarios{
-		administradorMap: make(map[string]curso),
+		administradorMap: make(map[string]*curso),
 	}
 }
-func (a *administradorDeHorarios) agregarCurso(c curso) bool {
+func (a *administradorDeHorarios) agregarCurso(c *curso) bool {
 	if _, exist := a.administradorMap[c.horario]; exist {
 		return false //El horario esta ocupado
 	}
@@ -49,10 +49,10 @@ func main() {
 	administrador := nuevoAdministradorDeHorarios()
 
 	//Se agregan cursos de ejemplo
-	curso1 := curso{nombre: "Analisis de algoritmos", horario: "Lunes 9:30-11:30", aula: "B3-03"}
-	curso2 := curso{nombre: "Lenguajes de programacion", horario: "Lunes 9:30-11:30", aula: "B3-03"}
-	curso3 := curso{nombre: "Estructuras de datos", horario: "Martes 9:30-11:30", aula: "B3-03"}
-	curso4 := curso{nombre: "Sistemas operativos", horario: "Jueves 18:00-19:50", aula: "B3-03"}
+	curso1 := &curso{nombre: "Analisis de algoritmos", horario: "Lunes 9:30-11:30", aula: "B3-03"}
+	curso2 := &curso{nombre: "Lenguajes de programacion", horario: "Lunes 9:30-11:30", aula: "B3-03"}
+	curso3 := &curso{nombre: "Estructuras de datos", horario: "Martes 9:30-11:30", aula: "B3-03"}
+	curso4 := &curso{nombre: "Sistemas operativos", horario: "Jueves 18:00-19:50", aula: "B3-03"}
 
 	if administrador.agregarCurso(curso1) {
 		fmt.Println("Curso agregado, Analisis de algoritmos")
