@@ -1,0 +1,27 @@
+C:\Users\ANTONY\Desktop\Lenguajes-de-programacion-\Paradigma 2\Ejercicio 4\Ejercicio 4\obj\Debug\net6.0\Ejercicio 4.fsproj.AssemblyReference.cache
+C:\Users\ANTONY\Desktop\Lenguajes-de-programacion-\Paradigma 2\Ejercicio 4\Ejercicio 4\obj\Debug\net6.0\Ejercicio 4.AssemblyInfoInputs.cache
+C:\Users\ANTONY\Desktop\Lenguajes-de-programacion-\Paradigma 2\Ejercicio 4\Ejercicio 4\obj\Debug\net6.0\Ejercicio 4.AssemblyInfo.fs
+C:\Users\ANTONY\Desktop\Lenguajes-de-programacion-\Paradigma 2\Ejercicio 4\Ejercicio 4\obj\Debug\net6.0\Ejercicio 4.fsproj.CoreCompileInputs.cache
+C:\Users\ANTONY\Desktop\Lenguajes-de-programacion-\Paradigma 2\Ejercicio 4\Ejercicio 4\bin\Debug\net6.0\Ejercicio 4.exe
+C:\Users\ANTONY\Desktop\Lenguajes-de-programacion-\Paradigma 2\Ejercicio 4\Ejercicio 4\bin\Debug\net6.0\Ejercicio 4.deps.json
+C:\Users\ANTONY\Desktop\Lenguajes-de-programacion-\Paradigma 2\Ejercicio 4\Ejercicio 4\bin\Debug\net6.0\Ejercicio 4.runtimeconfig.json
+C:\Users\ANTONY\Desktop\Lenguajes-de-programacion-\Paradigma 2\Ejercicio 4\Ejercicio 4\bin\Debug\net6.0\Ejercicio 4.dll
+C:\Users\ANTONY\Desktop\Lenguajes-de-programacion-\Paradigma 2\Ejercicio 4\Ejercicio 4\bin\Debug\net6.0\Ejercicio 4.pdb
+C:\Users\ANTONY\Desktop\Lenguajes-de-programacion-\Paradigma 2\Ejercicio 4\Ejercicio 4\bin\Debug\net6.0\FSharp.Core.dll
+C:\Users\ANTONY\Desktop\Lenguajes-de-programacion-\Paradigma 2\Ejercicio 4\Ejercicio 4\bin\Debug\net6.0\cs\FSharp.Core.resources.dll
+C:\Users\ANTONY\Desktop\Lenguajes-de-programacion-\Paradigma 2\Ejercicio 4\Ejercicio 4\bin\Debug\net6.0\de\FSharp.Core.resources.dll
+C:\Users\ANTONY\Desktop\Lenguajes-de-programacion-\Paradigma 2\Ejercicio 4\Ejercicio 4\bin\Debug\net6.0\es\FSharp.Core.resources.dll
+C:\Users\ANTONY\Desktop\Lenguajes-de-programacion-\Paradigma 2\Ejercicio 4\Ejercicio 4\bin\Debug\net6.0\fr\FSharp.Core.resources.dll
+C:\Users\ANTONY\Desktop\Lenguajes-de-programacion-\Paradigma 2\Ejercicio 4\Ejercicio 4\bin\Debug\net6.0\it\FSharp.Core.resources.dll
+C:\Users\ANTONY\Desktop\Lenguajes-de-programacion-\Paradigma 2\Ejercicio 4\Ejercicio 4\bin\Debug\net6.0\ja\FSharp.Core.resources.dll
+C:\Users\ANTONY\Desktop\Lenguajes-de-programacion-\Paradigma 2\Ejercicio 4\Ejercicio 4\bin\Debug\net6.0\ko\FSharp.Core.resources.dll
+C:\Users\ANTONY\Desktop\Lenguajes-de-programacion-\Paradigma 2\Ejercicio 4\Ejercicio 4\bin\Debug\net6.0\pl\FSharp.Core.resources.dll
+C:\Users\ANTONY\Desktop\Lenguajes-de-programacion-\Paradigma 2\Ejercicio 4\Ejercicio 4\bin\Debug\net6.0\pt-BR\FSharp.Core.resources.dll
+C:\Users\ANTONY\Desktop\Lenguajes-de-programacion-\Paradigma 2\Ejercicio 4\Ejercicio 4\bin\Debug\net6.0\ru\FSharp.Core.resources.dll
+C:\Users\ANTONY\Desktop\Lenguajes-de-programacion-\Paradigma 2\Ejercicio 4\Ejercicio 4\bin\Debug\net6.0\tr\FSharp.Core.resources.dll
+C:\Users\ANTONY\Desktop\Lenguajes-de-programacion-\Paradigma 2\Ejercicio 4\Ejercicio 4\bin\Debug\net6.0\zh-Hans\FSharp.Core.resources.dll
+C:\Users\ANTONY\Desktop\Lenguajes-de-programacion-\Paradigma 2\Ejercicio 4\Ejercicio 4\bin\Debug\net6.0\zh-Hant\FSharp.Core.resources.dll
+C:\Users\ANTONY\Desktop\Lenguajes-de-programacion-\Paradigma 2\Ejercicio 4\Ejercicio 4\obj\Debug\net6.0\Ejercicio 4.fsproj.CopyComplete
+C:\Users\ANTONY\Desktop\Lenguajes-de-programacion-\Paradigma 2\Ejercicio 4\Ejercicio 4\obj\Debug\net6.0\Ejercicio 4.dll
+C:\Users\ANTONY\Desktop\Lenguajes-de-programacion-\Paradigma 2\Ejercicio 4\Ejercicio 4\obj\Debug\net6.0\Ejercicio 4.pdb
+C:\Users\ANTONY\Desktop\Lenguajes-de-programacion-\Paradigma 2\Ejercicio 4\Ejercicio 4\obj\Debug\net6.0\Ejercicio 4.genruntimeconfig.cache
