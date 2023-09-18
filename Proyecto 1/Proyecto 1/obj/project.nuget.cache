@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "zBAxsDd81THFFSNCWQG6jzuAQFuOFz+NatLzwy0ymyTSJptvZFLuUwDjV6K74qdfXRWWt3KaBo672BKq7LxbQg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\ANTONY\\Desktop\\Lenguajes-de-programacion-\\Proyecto 1\\Proyecto 1\\Proyecto 1.fsproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\ANTONY\\.nuget\\packages\\fsharp.core\\7.0.400\\fsharp.core.7.0.400.nupkg.sha512"
+  ],
+  "logs": []
+}
