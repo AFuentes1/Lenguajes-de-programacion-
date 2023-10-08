@@ -1,0 +1,11 @@
+% Caso base: Una lista vacía es un subconjunto de cualquier lista.
+subconj([], _).
+
+% Caso recursivo: Verifica si el primer elemento de S1 está en S y luego verifica el resto de S1.
+subconj([X|S1], S) :-
+    miembro(X, S),     % Comprueba si X está en S.
+    subconj(S1, S).   % Llamada recursiva para el resto de S1.
+
+% Se verifica que el primer elemento este dentro de la lista utilizando
+% miembro(x,s), luego con una llamada recursiva se verifica el resto
+% si todos los
